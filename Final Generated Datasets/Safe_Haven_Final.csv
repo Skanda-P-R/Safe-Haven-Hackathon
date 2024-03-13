@@ -1,0 +1,20 @@
+state,safe_haven_score,hot_spot_score,numbers_of_monuments,monuments_score,hospital_count,hospital_score,avg_police_houses_total,police_score
+Andhra Pradesh   ,3,2,135,8,156,4,6632,3
+Assam            ,12,10,55,12,11,14,1027,15
+Bihar            ,10,1,70,11,3,17,3265,9
+Goa              ,16,12,21,18,5,16,205,26
+Gujarat          ,4,13,205,6,88,5,5536,5
+Haryana          ,8,11,91,9,59,8,2000,12
+Himachal Pradesh ,14,18,40,15,2,18,527,19
+Jharkhand        ,15,4,13,19,2,18,909,16
+Karnataka        ,2,3,506,2,201,2,4440,6
+Kerala           ,10,9,29,17,64,6,1324,14
+Madhya Pradesh   ,5,10,291,4,41,12,3660,8
+Maharashtra      ,1,14,286,5,244,1,10633,1
+Odisha           ,9,6,80,10,17,13,2005,11
+Punjab           ,11,11,33,16,48,9,1944,13
+Rajasthan        ,7,8,163,7,46,10,2838,10
+Tamil Nadu       ,2,5,412,3,179,3,5781,4
+Uttar Pradesh    ,2,3,743,1,62,7,7630,2
+Uttarakhand      ,13,16,44,14,1,19,528,18
+West Bengal      ,6,6,135,8,42,11,4317,7
